@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "999 Templates/class note template.md",
+                "file": "Term 1 Notes/General Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "999 Templates/class note template.md",
+                "file": "Term 1 Notes/General Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "999 Templates/class note template.md"
+                "file": "Term 1 Notes/General Notes.md"
               }
             }
           },
@@ -170,12 +170,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3a94bc6fb3fc9c5d",
+  "active": "84053211396d89d9",
   "lastOpenFiles": [
+    "999 Templates/class note template.md",
     "Screen Shot 2023-07-04 at 3.44.02 PM.png",
     "Term 1 Notes/General Notes.md",
     "Term 1 Notes/CGSC 1001/General Notes.md",
-    "999 Templates/class note template.md",
     "Term 1 Notes/COMP 1405/General Notes.md",
     "Term 1 Notes/MATH 1007/General Notes.md",
     "Term 1 Notes/MATH 1104/General Notes.md",
